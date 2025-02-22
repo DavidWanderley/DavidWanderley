@@ -1,7 +1,6 @@
 ### Hi my name is David Wanderley 😀
 
 Hi, I'm a web developer and I'm currently focusing on learning new technologies.
-You can call me Wanderley.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gomes-wanderley-061960192/)
 
