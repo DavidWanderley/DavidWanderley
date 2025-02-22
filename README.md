@@ -1,10 +1,9 @@
 ### Hi my name is David Wanderley 😀
 
-I am a junior developer, currently working with DotNet, CSharp, CSHTML. Today I am focusing on learning more, and improving.
-You can call me Dg.
+Hi, I'm a web developer and I'm currently focusing on learning new technologies.
+You can call me Wanderley.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gomes-wanderley-061960192/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dwanderley159/)
 
 ![Wanderley GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidWanderley&show_icons=true&theme=tokyonight)
 
