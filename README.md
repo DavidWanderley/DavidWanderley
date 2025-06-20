@@ -2,7 +2,7 @@
 
 Hi, I'm a web developer and I'm currently focusing on learning new technologies.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gomes-wanderley-061960192/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwanderley/)
 
 ![Wanderley GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidWanderley&show_icons=true&theme=tokyonight)
 
